@@ -2,31 +2,43 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Dong Wang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th July 1999
     - name: Languages
-      value: English, German
+      value: Chinese(native), English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD student
+      institution: Zhejiang University, Hangzhou, China
+      year: 2021-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - College of Information Science and Electronic Engeneering.
+        - Major in Electronic Science and Engineering.
+#        - title: Description 3.
+#          contents:
+#           - Sub-description 1.
+#           - Sub-description 2.
+    - title: Co-supervised PhD Student
+      institution: National University of Singapore, Singapore
+      year: 2024-now
       description:
-        - Description 1.
-        - Description 2.
+        - Department of Physics, Center for Quantum Technologies (CQT).
+        - Funded by China Scholarship Council (CSC).
+    - title: Bachelor
+      institution: Zhejiang University, China
+      year: 2017-2021
+      description:
+        - School of Physics & Chu Kochen Honors College.
+        - Major in Physics, Minor in Finance.
+    - title: High School
+      institution: YALI High school, Changsha, China
+      year: 2014-2017
+      description:
+        - First Prize in the 33rd China High School Physics Olympic Games.
+        - First Prize in the Pan-Pearl River Delta Physics Competition.
 
 - title: Experience
   type: time_table

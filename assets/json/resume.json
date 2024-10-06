@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dong Wang",
+    "label": "PhD canditate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "darrenwong@zju.edu.cn",
+    "phone": "(86) 173-4201-7819",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "227 Administration Building, Yuquan Campus, Zhejiang University",
+      "postalCode": "310027",
+      "city": "Hangzhou",
+      "countryCode": "China",
+      "region": "Zhejiang"
     },
     "profiles": [
       {
