@@ -1,28 +1,24 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D Candidate@<a href='https://www.zju.edu.cn'>ZJU</a>, Co-supervised Ph.D student@<a href='https://nus.edu.sg'>NUS</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>86 17342017819</p>
-    <p>ad</p>
+    <p></p>
     <p>Hangzhou, China</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Hi, welcome to my personal page!
-I'm Dong Wang, currently pursuing Ph.D. in Electronic Science and Technology at Zhejiang University, supervise by [Prof. Ying Li](https://person.zju.edu.cn/yingli) and [Prof. Hongsheng Chen](https://person.zju.edu.cn/chenhongsheng). I got my Bachelor in Physics at 20021also at Zhejiang University, graduating from Chu Kochen Honors College.
+Welcom!
+I'm pursuing Ph.D. in Electronic Science and Technology at Zhejiang University, supervised by [Prof. Ying Li](https://person.zju.edu.cn/yingli) and [Prof. Hongsheng Chen](https://person.zju.edu.cn/chenhongsheng). I obtained my Physics Bachelor's Degree from [Chu Kochen Honors College](http://ckc.zju.edu.cn), Zhejiang University, in 2021. In my undergradute, I also minjored Finance.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research insterests involve open quantum systems, quantum information and heat modulation, and. Sepcifically, I pay more attention to the time-modulated systems which coulped to the external enviroment，investigating the optimization problems associcated with a given quantity during evolution. The systems I studied range from classical (e.g., heat tranfer systems and waveguide systems) to quantum region (trapped ions). Currently, I fly to NUS to conduct researchs on quantum heat engine and quantum machine learning. 

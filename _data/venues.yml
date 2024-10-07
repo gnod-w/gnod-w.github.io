@@ -1,9 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Laser Photonics Rev.":
+  url: https://onlinelibrary.wiley.com/journal/18638899
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Adv. Mat.":
+  url: https://onlinelibrary.wiley.com/journal/15214095
 
-"Vision":
+
+"Nat. Commun.":
+  url: https://www.nature.com/ncomms/
   color: "#009f36"
+
+"IEEE Trans. Consum. Electron":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30
+  color: "#00369f"
+
+"Laser Photonics Rev.":
+  url: https://onlinelibrary.wiley.com/journal/18638899
+  color: "#00369f"
+
+"Phys. Rev. B":
+  url: https://prb.aps.org
+  color: "#00369f"
+
+"Sci. Adv.":
+  url: https://www.science.org/journal/sciadv
+  color: "#00369f"
