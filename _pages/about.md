@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome!
+**Welcome!**
 
 I'm pursuing Ph.D. in Electronic Science and Technology at Zhejiang University, supervised by [Prof. Ying Li](https://person.zju.edu.cn/yingli) and [Prof. Hongsheng Chen](https://person.zju.edu.cn/chenhongsheng). I earned my Bachelor’s degree in Physics from [Chu Kochen Honors College](http://ckc.zju.edu.cn), Zhejiang University, in 2021, with a minor in Finance.
 
