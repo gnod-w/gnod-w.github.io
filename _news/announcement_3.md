@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The paper [Efficient evolution framework for chirality control in non-Hermitian systems with adiabaticity engineering](10.1103/PhysRevB.110.064308) is publishd online in Physical Review B.
+The paper [Efficient evolution framework for chirality control in non-Hermitian systems with adiabaticity engineering](https://link.aps.org/doi/10.1103/PhysRevB.110.064308) is publishd online in Physical Review B.
